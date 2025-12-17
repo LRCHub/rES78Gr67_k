@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Precious",
+  "base_artist": "りすこ・わか・ふうり・もな form STAR☆ANIS",
+  "createdAt": "2025-12-17T09:06:39.878103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Precious",
+      "artist": "Minipop",
+      "has_synced": true,
+      "path": "select/01_Precious_Minipop.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take My Hand Precious Lord",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/02_Take_My_Hand_Precious_Lord_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take My Hand, Precious Lord",
+      "artist": "B.B. King & Friends",
+      "has_synced": true,
+      "path": "select/03_Take_My_Hand,_Precious_Lord_B.B._King_&_Friends.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dreams Are More Precious",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/04_Dreams_Are_More_Precious_Enya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Too Precious",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/05_Too_Precious_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let's Make This Precious",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/06_Let's_Make_This_Precious_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let's Make This Precious - New Version",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/07_Let's_Make_This_Precious_-_New_Version_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let's Make This Precious (New Version)",
+      "artist": "Kevin Rowland & Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/08_Let's_Make_This_Precious_(New_Version)_Kevin_Rowland_&_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Never Lose - Too Precious Club Radio Mix",
+      "artist": "Simply Red feat. Too Precious",
+      "has_synced": false,
+      "path": "select/09_Never_Never_Lose_-_Too_Precious_Club_Radio_Mix_Simply_Red_feat._Too_Precious.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Never Lose [Too Precious Club Radio Mix]",
+      "artist": "Simply Red",
+      "has_synced": false,
+      "path": "select/10_Never_Never_Lose_[Too_Precious_Club_Radio_Mix]_Simply_Red.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Precious Box",
+      "artist": "George Michael",
+      "has_synced": false,
+      "path": "select/11_Precious_Box_George_Michael.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Precious Dreams",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/12_Precious_Dreams_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Precious Pearl",
+      "artist": "M People",
+      "has_synced": true,
+      "path": "select/13_Precious_Pearl_M_People.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Precious Thing",
+      "artist": "Big Black",
+      "has_synced": true,
+      "path": "select/14_Precious_Thing_Big_Black.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Precious",
+      "artist": "Little Dragon",
+      "has_synced": true,
+      "path": "select/15_Precious_Little_Dragon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Precious",
+      "artist": "Cap'n Jazz",
+      "has_synced": false,
+      "path": "select/16_Precious_Cap'n_Jazz.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Precious",
+      "artist": "Sneaker Pimps",
+      "has_synced": true,
+      "path": "select/17_Precious_Sneaker_Pimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Precious",
+      "artist": "りすこ・わか・ふうり・もな form STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_Precious_りすこ・わか・ふうり・もな_form_STAR☆ANIS.txt"
+    }
+  ]
+}
